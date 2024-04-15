@@ -130,3 +130,7 @@ justify-content: center;
   margin-right: 5px;
   margin-top: 124px;
 }
+
+.recipes__iframe{
+  frameborder: "0";
+}
