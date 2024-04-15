@@ -57,7 +57,7 @@
 }
 
 .header__description{
-  max-width: 683;
+  max-width: 683px;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
@@ -115,7 +115,7 @@ justify-content: center;
 
 .recipes-title {
   max-width: 580px;
-  margin: 100px 80px 24;
+  margin: 100px 80px 24px;
 }
 
 .recipes-subtitle {
