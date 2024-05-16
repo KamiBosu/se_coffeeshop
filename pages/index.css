@@ -61,7 +61,6 @@
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
-
 }
 
 .header__span-accent {
@@ -132,5 +131,5 @@ justify-content: center;
 }
 
 .recipes__iframe{
-  frameborder: "0";
+  frameborder: "none";
 }
