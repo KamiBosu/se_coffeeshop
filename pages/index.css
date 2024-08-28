@@ -101,6 +101,10 @@
   padding: 100px 80px 215px;
 }
 
+.recipes__background{
+color: #0a2750
+}
+
 .recipes__videos {
 display: flex;
 gap: 100px;
@@ -143,6 +147,9 @@ justify-content: center;
   margin: 0 auto;
 }
 
+.reservation__background {
+  color: #D9E7FF;
+}
 .form{
   max-width: 385px;
 }
@@ -168,6 +175,11 @@ justify-content: center;
   border: none;
   padding: 20px 0;
   margin-bottom: 32px;
+  color: #1878dc;
+ }
+
+ .form__button:hover{
+  background-color: #3f96f3
  }
 
  .form__checkbox {
